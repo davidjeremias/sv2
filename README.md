@@ -1,12 +1,3 @@
-# Sivis-Backend
-
-Sivis2 - Sistema Identificação de Visitação
-
-
-Solicitante: 
-
-Área de desenvolvimento: COPAD
-
 Requisitos do sistema
 ----------------------
 
